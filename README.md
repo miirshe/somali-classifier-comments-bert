@@ -32,10 +32,10 @@ The implementation process involves detailed steps as visualized below:
 
 | Name                    | ID        | Class No |
 |-------------------------|-----------|----------|
-| **Abdikafi Isse Isak**   | C120868   | CA2013   |
-| **Younis Mohamed Abukar**| C120855   | CA203    |
-| **Mohamed Abdi Aadan**   | C1201004  | CA205    |
-| **Raxmo Abdikadir Jama** | C1201104  | CA202    |
+| **Abdikafi Isse Isak ( Miirshe )**   | C120868   | CA2013   |
+| **Younis Mohamed Abukar ( Dalfac )**| C120855   | CA203    |
+| **Mohamed Abdi Aadan ( Qazaafi )**   | C1201004  | CA205    |
+| **Raxmo Abdikadir Jama ( Raxmiish )** | C1201104  | CA202    |
 
 ## Screenshots
 
